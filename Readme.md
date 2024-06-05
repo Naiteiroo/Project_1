@@ -18,7 +18,7 @@
 
 
 ### Краткая информация о данных
-База резюме, выгруженная с сайта поиска вакансий hh.ru в формате cvs
+База резюме, выгруженная с сайта поиска вакансий hh.ru в формате CSV
 Ссылка на дадасет в Google Диск: https://drive.google.com/file/d/1nOm66DJeBxMlOCacKpP9Hs_i7I8hESg9/view?usp=sharing
 
 
